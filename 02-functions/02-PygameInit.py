@@ -1,15 +1,17 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Mar  7 19:17:32 2019
+First created on Thu Mar  7 19:17:32 2019
 
 @author: Jorge
 """
 
-#Librería pygame
+# Módulo pygame
 import pygame
 
+# Le decimos a pygame que se inicialice
 pygame.init()
 
+# Probamos que siga funcionando todo igual
 saludo = "Hola"
 
 print(saludo)

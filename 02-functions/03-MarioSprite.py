@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Feb 19 18:42:13 2019
+First created on Tue Feb 19 18:42:13 2019
 
 @author: Jorge
 """
