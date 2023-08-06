@@ -34,24 +34,34 @@ print("1"+"2")
 # Convertir un número en un string
 print(str(1) + "2")
 
+# La operación más importante es la asignación
+x = 2
+y = 3
+
 # ¿Qué otras operaciones hay?
 
 # Multiplicación
+print("Multiplicación")
 print(x*y)
 
-# División
+# Resta
+print("Resta")
 print(x-y)
 
 # Potencia
+print("Potencia")
 print(x^y)
 
 # División
+print("División")
 print(x/y)
 
 # Preferencia de operadores igual que en matemáticas
+print("Preferencia operadores")
 print(x/y+y)
 
 # Paréntesis
+print("Uso de paréntesis")
 print(x/(y+y))
 
 # No funciona :-(
