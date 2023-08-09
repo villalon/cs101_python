@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-First created on Thu Mar 21 18:32:58 2019
 
-@author: Jorge
-"""
 # Importamos el módulo pygame
 import pygame
 
