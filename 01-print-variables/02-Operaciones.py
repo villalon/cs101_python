@@ -32,6 +32,7 @@ print(x+2)
 print("1"+"2")
 
 # Convertir un número en un string
+# print(1 + "2")
 print(str(1) + "2")
 
 # La operación más importante es la asignación

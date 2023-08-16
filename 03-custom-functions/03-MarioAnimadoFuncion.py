@@ -28,7 +28,7 @@ mario = pygame.image.load('cs101_python/files/sprites2.gif')
 # Creamos una variable para poder "variar" la imagen que mostramos
 i=0
 # Creamos una variable x para la posición de Mario (queremos que varíe)
-x = 50
+x = 350
 # Que no se termine.
 while True:
         # Leemos los eventos para que la ventana no se cuelgue
